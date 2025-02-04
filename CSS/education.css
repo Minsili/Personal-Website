@@ -89,14 +89,14 @@
     font-weight: 300;
 }
 ::-webkit-scrollbar {
-    width: 15px; /* Defines the scrollbar width */
+    width: 15px; 
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: var(--main-color); /* Scrollbar draggable part */
-    border-radius: 10px; /* Optional: Adds rounded corners */
+    background-color: var(--main-color); 
+    border-radius: 10px; 
 }
 
 ::-webkit-scrollbar-track {
-    background-color: var(--bg-color); /* The track where the scrollbar moves */
+    background-color: var(--bg-color);
 }

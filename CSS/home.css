@@ -12,7 +12,7 @@
     --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: white;
-    --main-color: #00ffee;
+    --main-color: #67c1eb;
 }
 html{
     font-size: 60%;
@@ -123,7 +123,7 @@ span{
                 0 0 100px var(--main-color);
 }
 .home-content p{
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-weight: 500;
     line-height: 1.8;
     max-height: 1000px;

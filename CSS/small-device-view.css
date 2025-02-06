@@ -2,7 +2,7 @@
     --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: white;
-    --main-color: #00ffee;
+    --main-color: #67c1eb;
 }
 @media (max-width: 1285px) {
     html{
@@ -80,8 +80,8 @@
         margin: 5rem 4rem;
     }
     .home-content h1{
-        font-size: 8rem;
-        margin-top: 3rem;
+        font-size: 6rem;
+        margin-top: 2rem;
     }
     .home-content h3{
         font-size: 2.6rem;
@@ -95,8 +95,21 @@
     }
     .services h2{
         margin-bottom: 3rem;
+        font-size: 6rem;
+    }
+    .service-info h4{
+        line-height: 1.6;
     }
     .services-container{
         grid-template-columns: repeat(1, 1fr);
+    }
+    .testimonials .heading{
+        font-size: 6rem;
+    }
+    .education .heading{
+        font-size: 6rem;
+    }
+    .contact .heading{
+        font-size: 6rem;
     }
 }
